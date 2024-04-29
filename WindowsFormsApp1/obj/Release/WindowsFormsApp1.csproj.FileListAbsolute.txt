@@ -1,0 +1,13 @@
+C:\Users\DoctorFLEXoChan\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Rem2ModNamer.exe.config
+C:\Users\DoctorFLEXoChan\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Rem2ModNamer.exe
+C:\Users\DoctorFLEXoChan\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Rem2ModNamer.pdb
+C:\Users\DoctorFLEXoChan\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\DoctorFLEXoChan\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\DoctorFLEXoChan\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Rem2ModNamer.Properties.Resources.resources
+C:\Users\DoctorFLEXoChan\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\DoctorFLEXoChan\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\DoctorFLEXoChan\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsF.A1EEDF9B.Up2Date
+C:\Users\DoctorFLEXoChan\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Rem2ModNamer.exe
+C:\Users\DoctorFLEXoChan\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Rem2ModNamer.pdb
+C:\Users\DoctorFLEXoChan\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DoctorFLEXoChan\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.Fody.CopyLocal.cache

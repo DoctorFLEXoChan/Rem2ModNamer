@@ -1,0 +1,13 @@
+C:\Users\DoctorFLEXoChan\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\INIFileParser.dll
+C:\Users\DoctorFLEXoChan\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\INIFileParser.xml
+C:\Users\DoctorFLEXoChan\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\DoctorFLEXoChan\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\DoctorFLEXoChan\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\DoctorFLEXoChan\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\DoctorFLEXoChan\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\DoctorFLEXoChan\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Rem2ModNamer.exe.config
+C:\Users\DoctorFLEXoChan\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Rem2ModNamer.exe
+C:\Users\DoctorFLEXoChan\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Rem2ModNamer.pdb
+C:\Users\DoctorFLEXoChan\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Rem2ModNamer.Properties.Resources.resources
+C:\Users\DoctorFLEXoChan\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Rem2ModNamer.exe
+C:\Users\DoctorFLEXoChan\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Rem2ModNamer.pdb
